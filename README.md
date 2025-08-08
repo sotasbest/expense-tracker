@@ -45,7 +45,7 @@ A simple, responsive expense tracking web application built with React and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sotasbest/expense-tracker
    cd expense-tracker
    ```
 
@@ -138,24 +138,3 @@ This application works in all modern browsers that support:
 - ES6+ JavaScript features
 - LocalStorage API
 - CSS Grid and Flexbox
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Future Enhancements
-
-- Export data to CSV/PDF
-- Multiple currency support
-- Expense categories customization
-- Budget alerts and notifications
-- Data backup and restore functionality
-- Dark mode theme
